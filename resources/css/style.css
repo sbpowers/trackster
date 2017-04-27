@@ -1,0 +1,10 @@
+/*
+  Custom styles for Trackster App
+*/
+
+.header {
+  background-color: rgb(35, 2, 63);
+  color:rgb(255, 0, 171);
+  font-family: Righteous, cursive;
+  font-size: 36px;
+}
